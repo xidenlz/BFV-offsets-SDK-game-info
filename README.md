@@ -1,1 +1,2 @@
-# I dumped this using russain offset dumper, I searched for it on github and couldn't find it
+# I dumped this in 2023 using BFVDumper it should up to date you can find the dumper below 📝.
+https://github.com/artemking4/BFVDumper
